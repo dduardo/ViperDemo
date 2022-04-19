@@ -2,10 +2,8 @@
 This repository contains a simple example of VIPER Architectural Design Pattern
 
 <p align="center">
-  <img src="https://github.com/dduardo/ViperDemo/Images/Viper.png" width="250">
+  <img src="https://github.com/dduardo/ViperDemo/blob/main/Images/Viper.png" width="850">
 </p>
-<br>
-<br>
 
 ## Project Structure
 Each of the letters in VIPER stand for a component of the architecture: View, Interactor, Presenter, Entity and Router.
